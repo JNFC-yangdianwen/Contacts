@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\yangdianwen\AndroidStudioProjects\Contacts\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="485806a778a271970ddd1351bd66a7fc2efc1d8f">
+        <dex dex="C:\Users\yangdianwen\AndroidStudioProjects\Contacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_97e7bc333dd81ed83d413b7aa44fb8507b88bf0d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\yangdianwen\AndroidStudioProjects\Contacts\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="aee2778130efd29ae6934e70aab22074bfe10105">
+        <dex dex="C:\Users\yangdianwen\AndroidStudioProjects\Contacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f010955414bff8802102ef78899856e2b23785e4\classes.dex" />
+    </item>
+    <item
+        jar="E:\SDK\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\yangdianwen\AndroidStudioProjects\Contacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_20adbb8c14194ee9cfee9aadddac1b3e5be8cc53\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\yangdianwen\\AndroidStudioProjects\\Contacts\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tellist.xml",
+        "source": "C:\\Users\\yangdianwen\\AndroidStudioProjects\\Contacts\\app\\src\\main\\res\\layout\\activity_tellist.xml"
+    },
+    {
+        "merged": "C:\\Users\\yangdianwen\\AndroidStudioProjects\\Contacts\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_telmsg.xml",
+        "source": "C:\\Users\\yangdianwen\\AndroidStudioProjects\\Contacts\\app\\src\\main\\res\\layout\\activity_telmsg.xml"
+    },
+    {
+        "merged": "C:\\Users\\yangdianwen\\AndroidStudioProjects\\Contacts\\app\\build\\intermediates\\res\\merged\\debug\\layout\\inflate_telmgr_listitem.xml",
+        "source": "C:\\Users\\yangdianwen\\AndroidStudioProjects\\Contacts\\app\\src\\main\\res\\layout\\inflate_telmgr_listitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\yangdianwen\\AndroidStudioProjects\\Contacts\\app\\build\\intermediates\\res\\merged\\debug\\layout\\inflate_tellist_listitem.xml",
+        "source": "C:\\Users\\yangdianwen\\AndroidStudioProjects\\Contacts\\app\\src\\main\\res\\layout\\inflate_tellist_listitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\yangdianwen\\AndroidStudioProjects\\Contacts\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_logo.xml",
+        "source": "C:\\Users\\yangdianwen\\AndroidStudioProjects\\Contacts\\app\\src\\main\\res\\layout\\activity_logo.xml"
+    }
+]
